@@ -487,3 +487,5 @@ MigrationBackup/
 .ionide/
 
 # End of https://www.toptal.com/developers/gitignore/api/nuxt,yarn,macos,vuejs,linux,nuxtjs,dotenv,windows,visualstudio,visualstudiocode
+
+.vercel
